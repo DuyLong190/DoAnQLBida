@@ -1,0 +1,12 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\DoAnBida.DAL.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\DoAnBida.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\DoAnBida.DAL.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\obj\Debug\DoAnBida.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\obj\Debug\DoAnBida.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\obj\Debug\DoAnBida.06EE6139.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\obj\Debug\DoAnBida.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Do An\DoAnBida.DAL\obj\Debug\DoAnBida.DAL.pdb

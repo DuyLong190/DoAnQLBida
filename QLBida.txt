@@ -1,0 +1,46 @@
+create database DoAnQLBida
+use DoAnQLBida
+go
+
+create table BAN (
+	TableID		int primary key not null,
+	TableName	nvarchar(50) not null,
+	Status		nvarchar(50) not null,
+	StartTime	datetime,
+	EndTime		datetime,
+);
+
+create table KHACHHANG (
+	CustomerID	int primary key not null,
+	CustomerName	nvarchar(100) not null,
+	PhoneNum	int,
+);
+
+create table DICHVU (
+	ServiceID	int primary key not null,
+	ServiceName nvarchar(100) not null,
+	Price		decimal(10,2),
+);
+
+create table HOADON (
+	InvoiceID int primary key not null,
+	TableID INT FOREIGN KEY REFERENCES BAN(TableID),
+    CustomerID INT FOREIGN KEY REFERENCES KHACHHANG(CustomerID),
+    StartTime DATETIME not null,
+    EndTime DATETIME not null,
+    TotalAmount DECIMAL(10, 2) not null
+);
+
+create table CHITIETHOADON (
+	InvoiceID INT FOREIGN KEY REFERENCES HOADON(InvoiceID),
+    ServiceID INT FOREIGN KEY REFERENCES DICHVU(ServiceID),
+    SoLuong INT not null,
+    PRIMARY KEY (InvoiceID, ServiceID)
+);
+
+create table NHANVIEN (
+	EmployeeID INT PRIMARY KEY IDENTITY(1,1),
+    EmployeeName NVARCHAR(100) not null,
+    Role NVARCHAR(50) not null,
+    Password NVARCHAR(100) not null
+);
