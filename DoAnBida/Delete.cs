@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace DoAnBida
 {
-    public partial class TrangChu : Form
+    public partial class Delete : Form
     {
-        public TrangChu()
+        public Delete()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }

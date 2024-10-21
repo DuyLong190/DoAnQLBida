@@ -90,7 +90,7 @@
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtAccount);
             this.Name = "LoginForm";
-            this.Text = "Form1";
+            this.Text = "Đăng nhập";
             this.Load += new System.EventHandler(this.LoginForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

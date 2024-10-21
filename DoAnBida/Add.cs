@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace DoAnBida
 {
-    public partial class TrangChu : Form
+    public partial class Add : Form
     {
-        public TrangChu()
+        public Add()
         {
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            
+
         }
     }
 }

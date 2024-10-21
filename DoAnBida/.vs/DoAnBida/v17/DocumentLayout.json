@@ -3,26 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\do an\\doanbida\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\do an\\doanbida\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC77F69F-4DCF-4CFB-B9C3-0C5736A73CFD}|..\\DoAnBida.DAL\\DoAnBida.DAL.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\do an\\doanbida.dal\\entities\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E2CDFD-81AE-4A35-89E4-1A37ACC65E82}|..\\DoAnBida.BUS\\DoAnBida.BUS.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\do an\\doanbida.bus\\mahoamk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE77ABD6-4764-4807-BAA6-DEA5910948C3}|DoAnBida.GUI.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC77F69F-4DCF-4CFB-B9C3-0C5736A73CFD}|..\\DoAnBida.DAL\\DoAnBida.DAL.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\do an\\doanbida.dal\\entities\\bidadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,19 +41,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:51:54.417Z"
+              "WhenOpened": "2024-10-17T15:14:26.652Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -63,68 +65,66 @@
               "RelativeToolTip": "..\\DoAnBida.DAL\\Entities\\BidaDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:47:00.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MaHoaMK.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida.BUS\\MaHoaMK.cs",
-              "RelativeDocumentMoniker": "..\\DoAnBida.BUS\\MaHoaMK.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida.BUS\\MaHoaMK.cs",
-              "RelativeToolTip": "..\\DoAnBida.BUS\\MaHoaMK.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:17:30.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NHANVIEN.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida.DAL\\Entities\\NHANVIEN.cs",
-              "RelativeDocumentMoniker": "..\\DoAnBida.DAL\\Entities\\NHANVIEN.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida.DAL\\Entities\\NHANVIEN.cs",
-              "RelativeToolTip": "..\\DoAnBida.DAL\\Entities\\NHANVIEN.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:14:52.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs [Design]",
-              "RelativeToolTip": "LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:14:26.652Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:16:55.496Z"
+              "WhenOpened": "2024-10-17T15:47:00.703Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.cs",
-              "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwD8AAAAqAAAAAAAAAA==",
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:02:44.075Z",
+              "WhenOpened": "2024-10-21T07:58:52.879Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Add.cs",
+              "RelativeDocumentMoniker": "Add.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Add.cs",
+              "RelativeToolTip": "Add.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:51:22.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\TrangChu.cs",
+              "RelativeDocumentMoniker": "TrangChu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\TrangChu.cs [Design]",
+              "RelativeToolTip": "TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:11:28.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Delete.cs",
+              "RelativeDocumentMoniker": "Delete.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Delete.cs [Design]",
+              "RelativeToolTip": "Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:55:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Add.cs",
+              "RelativeDocumentMoniker": "Add.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Do An\\DoAnBida\\Add.cs [Design]",
+              "RelativeToolTip": "Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:50:49.716Z"
             },
             {
               "$type": "Document",
