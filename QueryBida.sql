@@ -1,4 +1,5 @@
 ﻿create database DoAnQLBida
+go
 use DoAnQLBida
 go
 
@@ -28,6 +29,13 @@ create table DICHVU (
 	Price		decimal(10,2),
 );
 
+create table NHANVIEN (
+	EmployeeID INT PRIMARY KEY IDENTITY(1,1),
+    EmployeeName NVARCHAR(100) not null,
+    Role NVARCHAR(50) not null,
+    Password NVARCHAR(100) not null
+);
+
 CREATE TABLE HOADON (
     InvoiceID   INT NOT NULL PRIMARY KEY,
     TableID     INT NOT NULL,
@@ -50,12 +58,7 @@ CREATE TABLE CHITIETHOADON (
     CONSTRAINT FK_CHITIETHOADON_DICHVU FOREIGN KEY (ServiceID) REFERENCES DICHVU(ServiceID)
 );
 
-create table NHANVIEN (
-	EmployeeID INT PRIMARY KEY IDENTITY(1,1),
-    EmployeeName NVARCHAR(100) not null,
-    Role NVARCHAR(50) not null,
-    Password NVARCHAR(100) not null
-);
+
 
 INSERT INTO LOAIBAN (LoaiBanID, LoaiBanName)
 VALUES (1, N'Bàn lỗ'),
